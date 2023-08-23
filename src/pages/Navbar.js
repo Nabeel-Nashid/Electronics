@@ -10,7 +10,7 @@ function Navbar() {
     setBar(!bar);
   };
   return (
-    <div className=" flex justify-around md:max-w-[full] w-full  h-[90px] mx-auto">
+    <div className=" flex justify-around md:max-w-[full] w-full  h-[90px] mx-auto bg-gradient-to-r from-teal-500 to-green-500">
       <div className="flex justify-center items-center">
         {/* <img src={logo} className="w-32" /> */}
         <h1 className="text-black">logo</h1>
