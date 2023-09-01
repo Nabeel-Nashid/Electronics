@@ -37,7 +37,7 @@ function Footer() {
           <h1 className="md:text-2xl text-lg font-medium mb-3">Contact US</h1>
           <div className="flex items-center mb-3">
             <img src={location} className="md:w-6 w-4 md:h-5 h-3" />
-            <h1 className="font-medium md:text-base text-xs">311,C 496,Suhar,Mascut</h1>
+            <h1 className="font-medium md:text-base text-xs">311,C 496,Suhar</h1>
           </div>
           <div className="flex items-center mb-3">
             <img src={phone} className="md:w-6 w-4 md:h-5 h-3" />
@@ -45,7 +45,7 @@ function Footer() {
           </div>
           <div className="flex items-center mb-3">
             <img src={mail} className="md:w-6 w-4 md:h-5 h-3 mr-2 " />
-            <h1 className="font-medium md:text-base text-xs">info@namaralghubairaa.com</h1>
+            <h1 className="font-medium md:text-base text-xs">info@abc.com</h1>
           </div>
         </div>
         <div className="flex flex-col">
